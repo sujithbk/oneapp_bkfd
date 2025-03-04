@@ -1,0 +1,59 @@
+/* importing the google font(Inter) */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Kanit:ital,wght@0,900;1,900&family=Kelly+Slab&family=Oswald:wght@200..700&family=Poppins:wght@400;500;600&display=swap');
+
+*{
+    font-family: Inter;
+}
+
+.logo{
+ width: 368px;
+height: 153px;
+top: 150px;
+left: 456px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.signin{
+width: 274.92px;
+height: 46.51px;
+font-size: 16px;
+font-weight: 600;
+line-height: 19.36px;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+
+.or{
+font-weight: 550;
+}
+@media (width < 40rem) {
+    .parent{
+        min-height: min-content;
+    }
+  .logo{
+    width: 248px;
+    height: 149px;
+    padding-top: 42px;
+    gap: 0px;
+    opacity: 0px;
+
+  }
+  .signin{
+    width: 266.92px;
+    height: 56.51px;
+
+
+  }
+  .or{
+    font-weight: 400;
+    padding-top: 0.2px;
+
+  }
+  .more{
+    font-size: x-small;
+    margin-bottom: 83px;
+  }
+}

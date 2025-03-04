@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Kanit:ital,wght@0,900;1,900&family=Kelly+Slab&family=Oswald:wght@200..700&family=Poppins:wght@400;500;600&display=swap');
+
+*{
+    font-family: Inter;
+   
+}
+.headingText1{
+ font-family: Inter;
+font-size: 32px;
+font-weight: 700;
+line-height: 38.73px;
+
+
+}
+.headingText2{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24.2px;
+
+}
+.headingText3{
+    font-family: Inter;
+font-weight: 200;
+
+
+}
+.formText{
+    font-family: Inter;
+font-size: 15px;
+font-weight: 700;
+line-height: 18.15px;
+
+}
+.terms{
+    font-family: Inter;
+font-size: 12px;
+font-weight: 500;
+line-height: 14.52px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+.btnlast{
+    font-family: Inter;
+font-size: 15px;
+font-weight: 900;
+line-height: 18.15px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+.formplaceholder{
+    font-family: Inter;
+font-size: 14px;
+font-weight: 300;
+line-height: 16.94px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+@media (width < 40rem) {
+    .headingText1{
+ font-family: Inter;
+font-size: 30px;
+font-weight: 700;
+line-height: 38.73px;
+
+    }
+    .headingText2{
+ font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: 24.2px;
+
+
+    }
+    .headingText3{
+        font-family: Inter;
+font-size: 15px;
+font-weight: 300;
+line-height: 18.15px;
+
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+.btnsendcode P{
+    width: 150px;
+height: 39px;
+top: 636px;
+left: 565px;
+gap: 0px;
+
+}
+@media (width < 40rem){
+    .headingText10{
+        font-size: 26px;
+        font-weight: 600;
+
+
+    }
+    .headingText20{
+        font-family: Inter;
+font-size: 17px;
+font-weight: 700;
+
+    }
+    .text2{
+        font-size: xx-small;
+    }
+    .lastdev{
+        margin-bottom: 0px;
+        margin-top: -11px;
+    }
+  
+}
+
+@media (width < 40rem){
+    .btn22{
+        margin-bottom: 198px;
+    }
+    .children{
+        margin-bottom: 373px;
+    }
+}

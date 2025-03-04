@@ -1,0 +1,17 @@
+@media (width < 40rem) {
+    .loginbtn{
+        margin-bottom: 80px;
+    }
+    .headingTextsr1{
+        display: flex ;
+        margin-top: 71px;
+    }
+    .formTextsr{
+        font-size: medium;
+        margin-bottom: 12px;
+    }
+    .formTextsr2{
+        font-size: smaller;
+        font-weight: normal;
+    }
+}
