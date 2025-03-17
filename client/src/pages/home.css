@@ -1,0 +1,11 @@
+@media (width < 40rem){
+    #pf{
+        font-size: 10px;
+    }
+    .sidebar{
+        width: 80%;
+    }
+}
+.smallfornt{
+    font-size: 10px;
+}
